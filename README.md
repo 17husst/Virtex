@@ -1,1 +1,1 @@
-# Virtex
+Virtex is an app that provides a miltitude of services. These include: web browsing facilities, internet speed checking, note taking, finance management, communication, calendars, and, reminders and alarms.
